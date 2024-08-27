@@ -1,0 +1,294 @@
+#sobre {
+width: 500px;
+height: 470px;
+margin: auto;
+
+}
+
+#conts{
+    width: 1200px;
+    margin: auto;
+    max-width: 100%;
+    min-width: 50%;
+}
+.empresa1 {
+    margin: auto;
+    margin-top: 20px; 
+    margin-bottom: 5px;
+}
+.outro{
+    display: flex;
+    justify-content: center;
+    min-width: 70%;
+}
+p{
+    text-align: justify;
+}
+h2{
+    font-size: 20px;
+    
+}
+#flex2{
+    display: flex;
+    justify-content: center;
+    min-width: 70%;
+    height: 470px;
+}
+
+body {
+
+  
+font-size: 16px;    
+background-color: #8b91e2;
+text-align: justify;
+margin: 0;
+padding: 0;
+font-family: Arial, sans-serif;
+}
+
+h4 {color: #000000;}
+
+h5{
+    color: #ffffff;
+    background-color: #8b91e2;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.fotofuz2{
+    width: 700px;
+    max-width: 100%;
+    margin-top: 50px;
+}
+.img-fluid{
+
+margin-bottom: 50px;
+
+}
+
+.logo{
+    width: 90px;
+    height: 60px;
+}
+.fuzzetofoto{
+    
+    margin: auto;
+  
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    
+}
+
+.missao {
+    padding: 10px;
+    width: 380px;
+    height: 150px;
+    max-width: 100%;
+    margin-bottom: 5px;
+    text-align: justify;
+    padding: 1%;
+    border: 2px solid rgb(77, 107, 241);
+    margin: auto;
+    margin-bottom: 50px;
+    background-color: #ffffff;
+    overflow: hidden;              
+
+    text-overflow:    ellipsis;
+}
+
+.visao{
+    padding: 10px;
+    width: 380px;
+    height: 150px;
+    max-width: 100%;
+    margin-bottom: 5px;
+    text-align: justify;
+    padding: 1%;
+    border: 2px solid rgb(77, 107, 241);
+    margin: auto;
+  
+    margin-bottom: 50px;
+    background-color: #ffffff;
+    overflow: hidden;              
+  text-overflow:    ellipsis;
+    
+}
+.valores{
+    padding: 10px;
+    width: 380px;
+    height: 150px;
+    max-width: 100%;
+    margin-bottom: 5px;
+    text-align: justify;
+    padding: 1%;
+    border: 2px solid rgb(77, 107, 241);
+    margin: auto;
+    
+    margin-bottom: 50px;
+    background-color: #ffffff;
+    overflow: hidden;              
+  text-overflow:    ellipsis;
+}
+.logo{
+    margin-left: 15px;
+    margin-right: 5px;
+}
+.wrapper{
+	border: 0px solid;
+    white-space: normal;
+    padding: 10px;
+	height: 500px;
+	background-color:#54befc;
+	border-radius: 10px;
+    width: 500px;
+    overflow: hidden;              
+    text-overflow:    ellipsis;
+  
+    font-size: 10px;
+    font-size: larger;
+    margin: auto;
+    max-width: 100%;
+    margin-bottom: 5px;
+   
+    
+}
+#botao{
+   
+    margin-bottom: 30px;
+    margin: auto;
+    margin-top: 100px;
+}
+#botao:hover{
+    background-color: #ff0000;
+    border-color: #000000;
+}
+.bt{
+    background-color: #626462;
+    border-radius: 7px;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 5px;
+    margin: auto;
+}
+
+.bt:hover{
+    background-color: #00ff15;
+
+}
+
+.navbar {
+    background-color: white;
+    overflow: hidden;
+    }
+    
+    .navbar a {
+    float: left;
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    }
+    
+    .navbar a:hover {
+    background-color: #a8a8a8;
+    color: #ffffff;
+    }
+
+p{
+    font-size: 14px;
+    text-align: justify;
+    
+    
+}
+footer{
+    clear: both;
+}
+
+
+.text-center{
+    clear: both;
+    margin: auto;
+}
+/*pag 2*/
+
+.card-group{
+    margin-top: 100px;
+}
+
+#card-group2{
+    margin-top: 20px;
+}
+
+.card-img-top{
+    width: 230px;
+    height: 180px;
+    margin: auto;
+    margin-top: 10px;
+    max-width: 50%;
+
+}
+
+.card{
+    width: 230px;
+}
+
+#formulario{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.corpalavra{
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 5px solid #ffffff;
+    width: 105px;
+    color: #000000;
+    margin-top: 20px;
+}
+
+.corpalavra3{
+    background-color: #ffffff;
+    border-radius: 10px;
+    width: 300px;
+    color: #000000;
+    margin-top: 20px;
+    margin: auto;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 2px solid rgb(77, 107, 241);
+}
+
+li{
+    margin: 5px;
+}
+
+.form2{
+    margin: 30px;
+    max-width: 100%;
+}
+.container{
+    width: 100%;
+    margin-top: 9px;
+}
+.corpalavra2{
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 5px solid #ffffff;
+    width: 180px;
+    color: #000000;
+   
+}
+.card-img-top{
+    width: auto;
+    height: auto;
+}
